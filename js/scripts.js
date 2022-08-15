@@ -26,7 +26,6 @@ function gatherInput (event) {
     const li3 = document.createElement("li");
     li3.innerHTML = newArray[2];
     ul.append(li3);
-
 };
 
 
